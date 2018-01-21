@@ -32,6 +32,9 @@ while True:
     break
   print(list1)
 
+if "ham" in list1:
+  ham()
 
-ham()
+elif "milk" in list1:
+  milk()
 
