@@ -26,9 +26,9 @@ elif ingredients=="cupcakes":
 
 
 
-elif ingredients=="toasted sandwhich":
+elif ingredients=="toasted sandwich":
     print("ok heres what you will need")
-    print("bread")
+    print("bread: you need to toast this in the toaster.")
     print("butter")
     print("ham")
     print("cheese")
@@ -36,5 +36,5 @@ elif ingredients=="toasted sandwhich":
 
 
 else:
-    print("unfortunately we do not have the reciepe for this")
+    print("unfortunately we do not have the recipe for this")
     
