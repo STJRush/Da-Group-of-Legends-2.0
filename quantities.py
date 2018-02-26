@@ -72,10 +72,10 @@ def add():
       print("This does not belong in a fridge. ")
       list1.remove(user)
       
-    user3=input("How much " + user + " is there in the fridge? ")
-    user3=user3.lower()
     user4=input("How would you measure this product? (Packets/slices/grams/litres depending on the product.) ")
     user4=user4.lower()
+    user3=input("How much " + user + " is there in the fridge? ")
+    user3=user3.lower()
     
     def quantity():
       print("You have " + user3 + " " + user4 + " of " + user)
