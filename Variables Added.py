@@ -45,3 +45,6 @@ elif "mayo" in list1:
 
 elif "mustard" in list1:
   mustard()
+
+  
+#this is added to a bigger code so that it makes sense.
