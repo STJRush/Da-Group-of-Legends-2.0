@@ -1,7 +1,0 @@
-print("hello this is fridge")
-print("this fridge counts how many calories your food has for example there are 89  calories in a banana")
-print("there are 145 calories in a slice of ham")
-print("there are 42 calories in milk")
-print ("there are 402 calories in chedder cheese")
-print("there are 47 calories in an orange")
-print("there are 52 calories in an apple")
