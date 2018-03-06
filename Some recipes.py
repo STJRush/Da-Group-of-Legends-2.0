@@ -30,7 +30,7 @@ elif bake == "banana bread":
     sleep(6)
     print("Remove from oven and let cool in the pan for a few minutes. Then remove the banana bread from the pan and let cool completely before serving. Slice and serve. (A bread knife helps to make slices that aren't crumbly.)")
 
-elif bake == "scones"
+elif bake == "scones":
     print("To make scones you will need 375g plain flour, 100g caster sugar, 5 teaspoons baking powder, 1/2 teaspoon salt, 170g butter, 1 egg, beaten, 225ml milk")
     sleep(10)
     print("1. Preheat oven to 200 C / Gas 6. Lightly grease a baking tray.")
